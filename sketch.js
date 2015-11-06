@@ -10,6 +10,7 @@ var div;
 //   eas = loadImage("etchasketch.png");
 // }
 
+//FLY BY
 
 function setup() {
   createCanvas(624, 442);
